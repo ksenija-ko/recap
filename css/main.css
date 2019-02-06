@@ -2,7 +2,15 @@ header {
     text-align: center;
 }
 
-.jumbotron{
+#jt { /* najjači (osim inline css-a u html-u)*/
+background-color: blue;
+}
+
+.jumbotron{  /* drugi najjači */
 padding: 10rem 2rem;
 background-color: red;
+}
+
+header {  /*zadnji po jačini*/
+
 }
